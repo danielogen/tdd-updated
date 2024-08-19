@@ -1,5 +1,5 @@
 # Test Driven Development Lab
-This repo contains starter code for test coverage exercises. Follow the instructions on the [class website](https://johnxu21.github.io/teaching/CS472/Timetable/dynamic_analysis/?) to get started.
+This repo contains starter code for TDD lab exercises. Follow the instructions on the [class website](https://johnxu21.github.io/teaching/CS472/Timetable/dynamic_analysis/?) to get started.
 
 ## Other Information
 
