@@ -10,3 +10,9 @@ how to call the web service and assert what it should return.
 - The service must be able to update a counter by name.
 - The service must be able to read the counter
 """
+
+import pytest
+
+from src.counter import app
+
+from src import status
